@@ -1,0 +1,22 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "demo api for applying for a jobใ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipoobest/node-to-do-api.git"
+  },
+  "author": "poobest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipoobest/node-to-do-api/issues"
+  },
+  "homepage": "https://github.com/ipoobest/node-to-do-api#readme",
+  "dependencies": {
+    "mongodb": "^3.1.10"
+  }
+}
